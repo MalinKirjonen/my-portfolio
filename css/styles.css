@@ -65,3 +65,9 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+.project-link {
+  display: block;
+  text-align: center;
+  margin: 0 20px;
+}
